@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 // Importing the images
-import project1Image from '../assets/image1.jpg';
-import project2Image from '../assets/image3.png';
-import project3Image from '../assets/image2.jpg';
+import project1Image from '../assets/Image1.jpg';
+import project2Image from '../assets/Image2.jpg';
+import project3Image from '../assets/Image3.png';
 
 const projectsData = [
   {
@@ -25,7 +25,7 @@ const projectsData = [
     description: 'A weather forecasting app using the OpenWeather API, built with React and Tailwind CSS.',
     image: project3Image, // Using imported image
     liveDemo: '#',
-    codeLink: 'https://github.com/kingsLib5/weatherForecast',
+    codeLink: '#',
   },
 ];
 
